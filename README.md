@@ -1,6 +1,6 @@
 # 🌐📈 Internet Global Adoption Over Time
 
-Este proyecto investigativo analiza la adopción de internet a lo largo de los años a nivel global.  
+Este proyecto investigativo analiza la adopción de internet a lo largo de los años .  
 El objetivo es identificar patrones, tendencias y factores que influyen en el crecimiento de la conectividad digital.
 
 ---
